@@ -1,4 +1,4 @@
-# passport-local
+# passport-ldap
 
 LDAP authentication strategy for Passport and Node.js
 
