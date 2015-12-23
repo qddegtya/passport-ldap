@@ -1,0 +1,25 @@
+{
+  "name": "passport-ldap",
+  "version": "0.1.0",
+  "description": "LDAP authentication strategy for Passport and Node.js",
+  "main": "./lib/passport-ldap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qddegtya/passport-ldap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qddegtya/passport-ldap/issues"
+  },
+  "homepage": "https://github.com/qddegtya/passport-ldap",
+  "license": "MIT",
+  "dependencies": {
+    "ldapjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.9.0"
+  }
+}
