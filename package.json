@@ -1,6 +1,6 @@
 {
   "name": "a-passport-ldap",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "LDAP authentication strategy for Passport and Node.js",
   "main": "./lib/passport-ldap",
   "scripts": {
