@@ -7,7 +7,7 @@ LDAP authentication strategy for Passport and Node.js
 ### Install
 
 ```
-npm install passport-ldap
+npm install a-passport-ldap
 ```
 
 ### Configure Strategy
