@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/a-passport-ldap.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/a-passport-ldap/)
+
 # passport-ldap
 
 LDAP authentication strategy for Passport and Node.js
