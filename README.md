@@ -1,4 +1,5 @@
 [![NPM](https://nodei.co/npm/a-passport-ldap.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/a-passport-ldap/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqddegtya%2Fpassport-ldap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqddegtya%2Fpassport-ldap?ref=badge_shield)
 
 # passport-ldap
 
@@ -74,3 +75,6 @@ router.post('/ldap'
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fqddegtya%2Fpassport-ldap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fqddegtya%2Fpassport-ldap?ref=badge_large)
